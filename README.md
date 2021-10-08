@@ -14,7 +14,7 @@ What is Reactive programming ?
 
 - Asynchronous and non blocking 
 - Data flow as event driven streams
-- We get an event from every result item from 
+- We get an event from every result item from the data source 
 
 
 
